@@ -2,6 +2,7 @@ Project Background:
 
 This is a Coffee Sales project data between 2019 and 2020. This project tracks different types of coffee beans (Arabica, Excelsa, Liberica, and Robusta) and provides insight into key metrics such as sales trends over time, sales by country, top customers, and other dimensions like roast type (Dark, Light, Medium), size (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg), and whether customers have a loyalty card or not. The primary purpose of this analysis is to monitor sales performance, identify high-performing customers and regions, and assess the popularity of different coffee types.
 The project can be downloaded here:
+https://github.com/Rweya/Portfolio_Projects/blob/7dc3f185ceec1e5cc842522253ac44da62e6258d/coffee%20Orders%201.xlsx
 Key Insights:
 1.	Total Sales Over Time:
 o	Sales for all coffee types show significant fluctuations throughout the analyzed period. Arabica and Excelsa appear to be the most volatile with large spikes in sales, particularly during mid-2019 and early 2020.
@@ -52,7 +53,7 @@ o	Popular package sizes are not detailed but can be explored further to understa
  ![Coffee](https://github.com/user-attachments/assets/3b49a829-0e97-41bc-884f-bdbbca1c5c32)
 
 The interactive excel dashboard can be downloaded here: 
-
+https://github.com/Rweya/Portfolio_Projects/blob/7dc3f185ceec1e5cc842522253ac44da62e6258d/coffee%20Orders%201.xlsx
 Recommendations:
 1.	Capitalize on Seasonal Peaks:
 o	Given the spikes in sales around certain months, the company should leverage seasonal trends by increasing marketing efforts during these periods. Special promotions, new product launches, or discounts can help maximize revenue during peak demand.
